@@ -17,6 +17,7 @@
 ![Screenshot (452)](https://github.com/Anand070800/Sample/assets/67433507/3ba04e5e-c475-47a2-83a9-d381b3a353df)
 
 # Record Added
+
 ![Screenshot (454)](https://github.com/Anand070800/Sample/assets/67433507/3190a54c-4ecc-4921-bbac-cd9deec0ebb5)
 
 # Editing Record 
@@ -33,3 +34,11 @@
 # Student Result View
 
 ![Screenshot (471)](https://github.com/Anand070800/Sample/assets/67433507/f64ea524-3eac-4ce3-8135-234a0927583d)
+
+# Database MongoDb
+# Student Table
+
+![Screenshot (475)](https://github.com/Anand070800/Sample/assets/67433507/79160c24-54af-45cd-9666-b35cf931ad39)
+
+# Teacher table
+![Screenshot (474)](https://github.com/Anand070800/Sample/assets/67433507/dc59cab6-9657-470d-b0dc-302a0ad872f1)
