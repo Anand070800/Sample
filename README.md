@@ -2,11 +2,11 @@
 
 # Home
 
-![WhatsApp Image 2023-09-22 at 11 43 52](https://github.com/Aneesha/Sample/assets/67433507/2d9beb2e-996c-4533-bf72-c4830b039fd7)
+![WhatsApp Image 2023-09-22 at 11 43 52](https://github.com/AneeshaDixit/Sample/assets/67433507/2d9beb2e-996c-4533-bf72-c4830b039fd7)
 
 # Create a blog
 
-![WhatsApp Image 2023-09-22 at 11 43 52 (1)](https://github.com/Aneesha/Sample/assets/67433507/31c5a849-8ab3-49d6-b58d-afebfd005f3a)
+![WhatsApp Image 2023-09-22 at 11 43 52 (1)](https://github.com/AneeshaDixit/Sample/assets/67433507/31c5a849-8ab3-49d6-b58d-afebfd005f3a)
 
 # View 
 
