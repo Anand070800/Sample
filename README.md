@@ -1,38 +1,47 @@
 # Blog App
 
-# Home Page
+# Home
 
-![Screenshot (476)](https://github.com/Anand070800/Sample/assets/67433507/9ec0d342-57cd-441c-bec1-436a77c0da1d)
+![WhatsApp Image 2023-09-22 at 11 43 52](https://github.com/Aneesha/Sample/assets/67433507/2d9beb2e-996c-4533-bf72-c4830b039fd7)
 
-# Creating Blog
+# Create a blog
 
-![Screenshot (477)](https://github.com/Anand070800/Sample/assets/67433507/d53e97ac-565b-47ab-8265-7c3d03630a22)
+![WhatsApp Image 2023-09-22 at 11 43 52 (1)](https://github.com/Aneesha/Sample/assets/67433507/31c5a849-8ab3-49d6-b58d-afebfd005f3a)
 
-# View Blog
-![Screenshot (478)](https://github.com/Anand070800/Sample/assets/67433507/121dcfd1-639c-48ca-bc0c-6e6d20bb8b10)
+# View 
 
-# view content of Blog
+![WhatsApp Image 2023-09-22 at 11 44 35 (1)](https://github.com/Anand070800/Sample/assets/67433507/0eb3dcd6-0689-4677-98dc-55908009783a)
 
-![Screenshot (480)](https://github.com/Anand070800/Sample/assets/67433507/65f8e5b6-4158-42a5-bb70-f2bfc277cd0a)
+# view content
 
-# Editing Blog
+![WhatsApp Image 2023-09-22 at 11 43 53 (1)](https://github.com/Anand070800/Sample/assets/67433507/8c4cb1fc-a606-4726-862e-6f17197d7ebd)
 
-![Screenshot (487)](https://github.com/Anand070800/Sample/assets/67433507/f2e07bdf-364f-4fd2-a62d-a16a9da6afc5)
+# Edit to blog
+
+
+![WhatsApp Image 2023-09-22 at 11 44 34](https://github.com/Anand070800/Sample/assets/67433507/42be4664-ca04-4d07-a8d9-655a341b96e2)
 
 # Edited Blog
 
-![Screenshot (489)](https://github.com/Anand070800/Sample/assets/67433507/f9c62d09-d984-4817-8062-1ebc8586f71f)
+![WhatsApp Image 2023-09-22 at 11 44 33 (1)](https://github.com/Anand070800/Sample/assets/67433507/c437ee6c-d3be-48b6-b83e-cf5fab9bd140)
 
-# Like a Blog
+# Like button
 
-![Screenshot (482)](https://github.com/Anand070800/Sample/assets/67433507/8fe5b721-18b9-4a0d-a503-534c8b41071d)
+![WhatsApp Image 2023-09-22 at 11 44 33](https://github.com/Anand070800/Sample/assets/67433507/08a37d95-2f59-480a-bdd8-a4f68becdceb)
 
-# Dislike a blog
+# Dislike button
 
-![Screenshot (483)](https://github.com/Anand070800/Sample/assets/67433507/121afa45-9c67-487f-a650-c6f6566185ab)
+![WhatsApp Image 2023-09-22 at 11 44 32](https://github.com/Anand070800/Sample/assets/67433507/028e2cf5-9f81-40cd-9e39-7106393a7e55)
 
-# Delete a Blog
+# Delete 
 
-![Screenshot (485)](https://github.com/Anand070800/Sample/assets/67433507/d22013a6-3216-4eb8-a7b9-3be22cd3122f)
+![WhatsApp Image 2023-09-22 at 11 44 37](https://github.com/Anand070800/Sample/assets/67433507/8a3a479b-9616-4590-a33e-75b816cd3212)
 
-![Screenshot (486)](https://github.com/Anand070800/Sample/assets/67433507/c1e98a26-20c8-46fb-87f5-c1ed7ac2fc9f)
+
+![WhatsApp Image 2023-09-22 at 11 44 38](https://github.com/Anand070800/Sample/assets/67433507/3459ce84-410d-45cd-a405-9ee52e76716b)
+
+
+![WhatsApp Image 2023-09-22 at 11 44 38 (1)](https://github.com/Anand070800/Sample/assets/67433507/c96bf756-4271-494b-ab5a-0849bbad70b7)
+
+
+
