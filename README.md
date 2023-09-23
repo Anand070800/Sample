@@ -1,5 +1,5 @@
 # Blog App
- # you can view the hosted blog App on surge : 
+ # you can view the hosted blog App on surge  : 
 
  
  # quaint-glass.surge.sh          (copy this and paste in browser)
