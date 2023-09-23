@@ -3,10 +3,10 @@
  # You can view the hosted blog App on surge :-
 
  
- # quaint-glass.surge.sh          (copy this and paste in browser)
+ # vague-squirrel.surge.sh          (copy this and paste in browser)
 
 
- quaint-glass.surge.sh         (copy this and paste this on browser tab)
+   vague-squirrel.surge.sh        (copy this and paste this on browser tab)
 
 
 
@@ -49,7 +49,8 @@
 
 
 
-![Screenshot (487)](https://github.com/Anand070800/Sample/assets/67433507/f2e07bdf-364f-4fd2-a62d-a16a9da6afc5)
+<img width="959" alt="Screenshot 2023-09-24 005401" src="https://github.com/Anand070800/Sample/assets/67433507/0a7298c5-8ba5-4d55-942f-83253ea85968">
+
 
 
 
