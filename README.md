@@ -49,7 +49,7 @@
 
 
 
-<img width="959" alt="Screenshot 2023-09-24 005401" src="https://github.com/Anand070800/Sample/assets/67433507/0a7298c5-8ba5-4d55-942f-83253ea85968">
+<img width="960" alt="Screenshot 2023-09-24 005811" src="https://github.com/Anand070800/Sample/assets/67433507/20a80307-1be2-44e8-92e2-3a570f8beb42">
 
 
 
